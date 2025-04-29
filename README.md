@@ -11,7 +11,5 @@ https://github.com/RobinBreman/WME-NL-Wiki
 |--|--|
 |1.0.0 | Initial version
 
-
-
 ## About me
-This script is developed by Robin Breman (@robbre), L4 editor Waze NL.
+This script is developed by Robin Breman (@robbre), Waze NL.
