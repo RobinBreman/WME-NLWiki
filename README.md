@@ -8,7 +8,8 @@ https://github.com/RobinBreman/WME-NL-Wiki
 
 ## Changelog
 |Version||
-1.0.0 | Initial version
+|--|--|
+|1.0.0 | Initial version
 
 
 
